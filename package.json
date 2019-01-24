@@ -1,7 +1,7 @@
 {
   "name": "electron-zoomsdk",
   "description": "npm package for the Zoom SDK for Electron and SDK for Windows",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "homepage": "https://developer.zoom.us/docs/electron-framework/",
   "author": "Jorge Mercado",
   "license" : "SEE LICENSE IN LICENSE.md", 
@@ -16,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jorgemariomercado/electron-zoomsdk.git"
+    "url": "https://github.com/jorgemariomercado/electron-zoomsdk.git#upgrade"
   }
 }
