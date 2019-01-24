@@ -16,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jorgemariomercado/electron-zoomsdk.git#upgrade"
+    "url": "https://github.com/jorgemariomercado/electron-zoomsdk.git"
   }
 }
